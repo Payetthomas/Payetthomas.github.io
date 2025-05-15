@@ -37,7 +37,7 @@ Portfolio de mes projets GitHub
 💼 Projet réalisé en autonomie pendant un stage  
 🌍 Mise en ligne prévue prochainement
 
-📁 [Voir le repo](https://github.com/Payetthomas/AmaTerra-ecommerce)
+📁 [Voir le repo](https://github.com/Payetthomas/Ama-Terra.re/tree/main)
 
 ---
 
