@@ -24,7 +24,8 @@ Portfolio de mes projets GitHub
 👥 Travail en équipe (4 personnes) – projet présenté pour le titre DWWM  
 🚫 Pas encore en ligne, mais visible sur demande
 
-📁 [Voir le repo (bientôt dispo)](https://github.com/ton_pseudo/cine-delices)
+📁 **Frontend** : [Voir le repo frontend](https://github.com/O-clock-Quesadillas/cine-delices-front)  
+📁 **Backend** : [Voir le repo backend](https://github.com/O-clock-Quesadillas/cine-delices-back)
 
 ---
 
@@ -36,7 +37,7 @@ Portfolio de mes projets GitHub
 💼 Projet réalisé en autonomie pendant un stage  
 🌍 Mise en ligne prévue prochainement
 
-📁 [Voir le repo (privé pour l’instant)](https://github.com/ton_pseudo/ama-terra)
+📁 [Voir le repo](https://github.com/Payetthomas/AmaTerra-ecommerce)
 
 ---
 
